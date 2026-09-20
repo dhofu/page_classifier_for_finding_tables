@@ -10,6 +10,6 @@ Classification of the training data was done manually.
 
 1,108 files were used for training; 276 for validation during model training. 
 
-The classification model has a preliminary character and serves as a pilot study for more comprehensive future work on an Optical Page Classifier.
+The classification model has a preliminary character and serves as a pilot study for more comprehensive and better prepared future work on an Optical Page Classifier.
 
-The preliminary classification model documented here was used during the creation of the Bamberg 10k Printed Historical Tables Dataset, which is documented on [GitHub](https://github.com/dhofu/bamberg_10k_printed_historical_tables_dataset) and [Zenodo](https://doi.org/10.5281/zenodo.22251282).
+The _preliminary_ classification model documented here was used during the creation of the Bamberg 10k Printed Historical Tables Dataset, which is documented on [GitHub](https://github.com/dhofu/bamberg_10k_printed_historical_tables_dataset) and [Zenodo](https://doi.org/10.5281/zenodo.22251282).
