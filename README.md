@@ -4,7 +4,7 @@ This repo contains the [training script](training_script.py) used to produce a s
 
 The training and classification model data are published on [Zenodo](https://doi.org/10.5281/zenodo.22857742). 
 
-The training data consists of 1,384 page-scans belonging to 4 classes: Title, Text, Table, Text_and_table. 
+The training data consists of 1,384 page-scans belonging to 4 classes: `Title`, `Text`, `Table`, and `Text_and_table`. Page scans were collected from 18 sources. Bibliographic source references are given in the [sources file](SOURCES.md). 
 
 Classification of the training data was done manually. 
 
